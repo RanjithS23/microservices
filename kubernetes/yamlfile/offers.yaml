@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: "offer"
-        image:  Ranjithkumar23/spring:v1
+        image:  ranjithkumar23/spring:v1
         ports:
         - containerPort:  1001
           name: "offer"
